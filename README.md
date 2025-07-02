@@ -1,6 +1,7 @@
 # hello-world
-# I am rotem and I am a .net dev
+
+# I am Rotem and I am a .NET developer
 
 # Some more text.
 
-# Oh, common. :)
+# Oh, come on. :)
